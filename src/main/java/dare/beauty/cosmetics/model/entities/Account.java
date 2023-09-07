@@ -6,7 +6,7 @@ import lombok.Data;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 
-@Entity(name = DbParam.ACCOUNT)
+@Entity(name = DbParam.TBL_ACCOUNT)
 @Data
 public class Account extends GeniricEntity {
     @Column(name = DbParam.USER_ID)

@@ -30,10 +30,11 @@ public class DbParam {
     public static final String QUANTITY = "QUANTITY";
     public static final String PRICE = "PRICE";
     public static final String TOTAL = "TOTAL";
-    public static final String ACCOUNT = "ACCOUNT";
+    public static final String TBL_ACCOUNT = "TBL_ACCOUNT";
     public static final String USER_ID = "USER_ID";
     public static final String CITY = "CITY";
     public static final String COUNTRY_CODE = "COUNTRY_CODE";
     public static final String COUNTRY_STATE = "COUNTRY_STATE";
     public static final String ROLE = "ROLE";
+    public static final String TBL_BANNER = "TBL_BANNER";
 }
